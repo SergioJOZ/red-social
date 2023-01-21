@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useParams } from "react-router-dom";
 import avatar from "../../assets/img/user.png";
-import { Global } from "../../helpers/global";
+import { Global } from "../../helpers/Global";
 import { Link } from "react-router-dom";
 import useAuth from "../../hooks/useAuth";
 import { PublicationList } from "../publication/PublicationList";
