@@ -1,5 +1,5 @@
 import React from "react";
-import { Global } from "../../helpers/global";
+import { Global } from "../../helpers/Global";
 import useAuth from "../../hooks/useAuth";
 import avatar from "../../assets/img/user.png";
 import { Link } from "react-router-dom";

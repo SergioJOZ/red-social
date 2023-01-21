@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import { useEffect } from "react";
-import { Global } from "../../helpers/global";
+import { Global } from "../../helpers/Global";
 import { UserList } from "./UserList";
 
 export const People = () => {

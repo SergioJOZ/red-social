@@ -1,6 +1,6 @@
 import React from "react";
 import avatar from "../../../assets/img/user.png";
-import { Global } from "../../../helpers/global";
+import { Global } from "../../../helpers/Global";
 import useAuth from "../../../hooks/useAuth";
 import { Link } from "react-router-dom";
 import { useForm } from "../../../hooks/useForm";

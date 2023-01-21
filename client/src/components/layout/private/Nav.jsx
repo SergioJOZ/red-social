@@ -2,7 +2,7 @@ import React from "react";
 import avatar from "../../../assets/img/user.png";
 import { NavLink } from "react-router-dom";
 import useAuth from "../../../hooks/useAuth";
-import { Global } from "../../../helpers/global";
+import { Global } from "../../../helpers/Global";
 export const Nav = () => {
   const { auth } = useAuth();
 
